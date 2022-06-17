@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"1f553f37-d5cb-4721-a15f-47f8b7bcb119","feature":"login to freecrm","scenario":"verify login functionilty with negative credential","start":1655375632026,"group":1,"content":"","tags":"@regression,@smoke,","end":1655375652447,"className":"failed"},{"id":"51fec5ab-de0c-413b-9b1a-4d54eafc9fa0","feature":"login to freecrm","scenario":"verify login functionilty with given credential","start":1655375609741,"group":1,"content":"","tags":"@smoke,","end":1655375631937,"className":"failed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
